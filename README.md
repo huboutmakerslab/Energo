@@ -1,0 +1,2 @@
+# Energo
+E’ un misuratore di energia che si può facilmente costruire ed installare nella propria casa. E’ un progetto basato su Arduino™, che tramite una semplice programmazione permette di essere installato sul contatore di energia elettrica della propria casa. Energo misurerà i consumi della propria casa, dando la possibilità di scaricare i dati sul proprio PC per capire dove e quando si consuma di più. E’ un progetto green perchè permette di monitorare e controllare l’energia domestica, ottimizzando e risparmiando l’energia elettrica.
